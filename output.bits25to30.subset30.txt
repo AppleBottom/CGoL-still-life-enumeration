@@ -1,0 +1,32 @@
+subset = 30, min = 25
+Not stable = 14755232644, not canonical = 217867764, not connected = 4240169
+
+Number of on-cells:         25
+Result for subset 30 in (0..99) of search space:
+Strict still lifes:     103411
+Pseudo still lifes:      79819
+
+Number of on-cells:         26
+Result for subset 30 in (0..99) of search space:
+Strict still lifes:     251235
+Pseudo still lifes:     206816
+
+Number of on-cells:         27
+Result for subset 30 in (0..99) of search space:
+Strict still lifes:     609531
+Pseudo still lifes:     529905
+
+Number of on-cells:         28
+Result for subset 30 in (0..99) of search space:
+Strict still lifes:    1489214
+Pseudo still lifes:    1365701
+
+Number of on-cells:         29
+Result for subset 30 in (0..99) of search space:
+Strict still lifes:    3636068
+Pseudo still lifes:    3502094
+
+Number of on-cells:         30
+Result for subset 30 in (0..99) of search space:
+Strict still lifes:    8934298
+Pseudo still lifes:    9008027
